@@ -8,6 +8,7 @@ A continuación detallo la estructura del repositorio y como se llevaron adelant
 
 ## <u>Los Datasets</u>
 ![Welcome](src/premios.jpg)
+
 Los datasets "movies_dataset" y "credits" se basan en datos sobre películas, ambos datasets tienen diferentes estructuras y composición de datos.<br> 
 Movies cuenta con información referida a las películas, como títulos, fecha de lanzamiento, compañias productoras, colecciones, lugares de filmación, etc.<br>
 Credits por su parte contiene lo que hace a la película, lista de actores, lista de directores, géneros y más datos no relevantes a nuestro análisis.<br>
@@ -39,6 +40,7 @@ Se definieron 6 (seis) funciones principales y 2 (dos) funciones accesorias:
 
 ## <u>El Algoritmo</u>
 ![Hmmm](src/what.png)
+
 La parte más díficil es elegir una película, por lo que necesitamos definir un buen algoritmo de recomendación.<br>
 En este caso, teniendo muchas alternativas, y habiendo probado otras tantas, me decanté por las basadas en palabras, al estilo bag of words.<br>
 Una columna del dataset original cuenta con un paneo general de la trama de cada película, al título de "overview". Esta columna es el pilar del análisis.<br>
