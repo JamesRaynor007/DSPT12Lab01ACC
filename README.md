@@ -19,7 +19,7 @@ Los datos se encuentran con muchos inconvenientes, hay **duplicados, faltantes, 
 En el <u>**archivo ETL + EDA**</u> se encontrarán las limpiezas realizadas, se eliminan duplicados, se cuentan vacíos y faltantes, se intentan ***homogenenizar los tipos*** acordes a las salidas esperadas.<br>
 Los *primeros códigos se concentran en limpiar los datos*, eliminar columnas innecesarias y dejar un dataframe de partida lo más prolijo posible.<br>
 Una vez logrado esto, se empieza a **particionar el dataset** base y se definen datasets específicos para las distintas funciones según sus requerimientos.<br>
-Si usted desea utilizar el script ETL + EDA, asegúrese de tener en la misma carpeta los datasets y el mismo debiera ejecutarse por completo con una demora promedio de 20 minutos, arrojando como resultado los datasets definidos para cada función.
+Si usted desea utilizar el script ETL + EDA, asegúrese de tener en la misma carpeta los datasets y el mismo debiera ejecutarse por completo con una demora promedio de 20 minutos, arrojando como resultado los datasets definidos para cada función. <br>
 **No consideré necesaria la utilización de gráficos por el estilo de datos y funciones requeridas.* <br>
 
 ## <u>Las Funciones</u>
