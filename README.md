@@ -23,6 +23,7 @@ No consideré necesaria la utilización de gráficos por el estilo de datos y fu
 
 ## <u>Las Funciones</u>
 ![Hmmm](src/pensar.png)
+
 Se definieron 6 (seis) funciones principales y 2 (dos) funciones accesorias:
 
 #### 1)<u> **Función 1:</u> Obtener el número acumulado de películas estrenadas en un mes [no importa el año].** <br><br>
