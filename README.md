@@ -27,15 +27,15 @@ Si usted desea utilizar el script ETL + EDA, asegúrese de tener en la misma car
 
 **<u> Se definieron 6 (seis) funciones principales y 2 (dos) funciones accesorias </u>** :
 
-#### 1)<u> **Función 1:</u> Obtener el número acumulado de películas estrenadas en un mes [no importa el año].** <br><br>
-#### 2)<u> **Función 2:</u> Obtener el número acumulado de películas estrenadas en un día [no importa el año].**<br><br>
-#### 3)<u> **Función 3:</u> Obtener el score/puntuación de una película, su fecha de lanzamiento y voto promedio.**<br><br>
-#### 4)<u> **Función 4:</u> Obtener los votos obtenidos por una películas, si superan las 2.000 valoraciones, y su voto promedio.**<br><br>
-#### 5)<u> **Función 5:</u> Obtener el éxito de un actor, cantidad de películas protagonizadas, retorno promedio y ganancia bruta.**<br><br>
-#### <u> **Función 5 extra:</u> Obtener el listado de actores disponibles para consultar.**<br><br>
-#### 6)<u> **Función 6:</u> Obtener el éxito de un director, cantidad de películas dirigidas, retorno promedio y**
-#### **el listado de películas dirigidas con sus detalles de presupuesto, ganancia y retorno.**<br><br>
-#### <u> **Función 6 extra:</u> Obtener el listado de directores disponibles para consultar.**<br>
+* #### 1)<u> **Función 1:</u> Obtener el número acumulado de películas estrenadas en un mes [no importa el año].** <br><br>
+* #### 2)<u> **Función 2:</u> Obtener el número acumulado de películas estrenadas en un día [no importa el año].**<br><br>
+* #### 3)<u> **Función 3:</u> Obtener el score/puntuación de una película, su fecha de lanzamiento y voto promedio.**<br><br>
+* #### 4)<u> **Función 4:</u> Obtener los votos obtenidos por una películas, si superan las 2.000 valoraciones, y su voto promedio.**<br><br>
+* #### 5)<u> **Función 5:</u> Obtener el éxito de un actor, cantidad de películas protagonizadas, retorno promedio y ganancia bruta.**<br><br>
+* #### <u> **Función 5 extra:</u> Obtener el listado de actores disponibles para consultar.**<br><br>
+* #### 6)<u> **Función 6:</u> Obtener el éxito de un director, cantidad de películas dirigidas, retorno promedio y**
+* #### **el listado de películas dirigidas con sus detalles de presupuesto, ganancia y retorno.**<br><br>
+* #### <u> **Función 6 extra:</u> Obtener el listado de directores disponibles para consultar.**<br>
 <br>
 
 ## <u>El Algoritmo</u>
