@@ -1,5 +1,5 @@
-# <u>HENRY LAB 01 - MLOPS</u>
-## <u>Proyecto Individual 01</u>
+# <u> HENRY LAB 01 - MLOPS </u>
+## <u> Proyecto Individual 01 </u>
 ![Portada](src/portada.gif)
 
 Este repositorio es parte de la cohorte DS PT-12, elaborado por **Alejandro Castellano** como respuesta al proyecto individual requerido. <br>
