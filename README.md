@@ -34,7 +34,7 @@ Si usted desea utilizar el script ETL + EDA, asegúrese de tener en la misma car
 * #### 5)<u> **Función 5:</u> Obtener el éxito de un actor, cantidad de películas protagonizadas, retorno promedio y ganancia bruta.**<br><br>
 * #### <u> **Función 5 extra:</u> Obtener el listado de actores disponibles para consultar.**<br><br>
 * #### 6)<u> **Función 6:</u> Obtener el éxito de un director, cantidad de películas dirigidas, retorno promedio y**
-* #### **el listado de películas dirigidas con sus detalles de presupuesto, ganancia y retorno.**<br><br>
+  #### **el listado de películas dirigidas con sus detalles de presupuesto, ganancia y retorno.**<br><br>
 * #### <u> **Función 6 extra:</u> Obtener el listado de directores disponibles para consultar.**<br>
 <br>
 
