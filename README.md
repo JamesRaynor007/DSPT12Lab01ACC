@@ -35,7 +35,7 @@ Se definieron 6 (seis) funciones principales y 2 (dos) funciones accesorias:
 #### 6)<u> **Función 6:</u> Obtener el éxito de un director, cantidad de películas dirigidas, retorno promedio y**
 #### **el listado de películas dirigidas con sus detalles de presupuesto, ganancia y retorno.**<br><br>
 #### <u> **Función 6 extra:</u> Obtener el listado de directores disponibles para consultar.**<br>
-
+<br>
 
 ## <u>El Algoritmo</u>
 ![Hmmm](src/what.png)
@@ -51,8 +51,11 @@ Siendo que para Toy Story recomienda Toy Story 2 y Toy Story 3, me pareció acer
 Siendo que para Mortal Kombat recomienda otras dos películas de Mortal Kombat, también me pareció acertado.<br>
 Siendo que para Titanic recomienda 1900, una película basada en una historia de navegación e historia, también me pareció acertado.<br>
 Debo mencionar que su ordenamiento se da por el voto promedio (vote_average según nombre de columna) y no seguí la recomendación de justamente, recomendar películas con cierta correlación entre el voto promedio. Por ejemplo, Mortal Kombat recomienda una película de Mortal Kombat con valoración promedio 10 y otra con valoración promedio 3,8.<br>
+<br>
+
 # A disfrutar la mejor recomendación
 ![Ejemplo de Imagen](src/publico3.jpg)
+
 A fin de cuentas, que algoritmo acierta con sus 5 recomendaciones? Con que una sea viable, el resto será disfrutar.
 
 # <u> Saludos y Agradecimiento</u>
