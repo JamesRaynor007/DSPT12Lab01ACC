@@ -45,7 +45,7 @@ La parte más díficil es elegir una película, por lo que necesitamos **definir
 En este caso, teniendo muchas alternativas, y habiendo probado otras tantas, *me decanté por las basadas en palabras*, al **estilo bag of words**.<br>
 Una columna del dataset original cuenta con un paneo general de la trama de cada película, al título de **"overview". Esta columna es el pilar del análisis**.<br>
 Se procesa en el script aplicando **técnicas de preprocesamiento** para normalizar el texto, lo que implicó eliminar carácteres extraños, números, mayúsculas y **aplicar stemming** (porque resultó funcionar mejor que lemmatization). Una vez obtenida la columna preprocesada, **se tokeniza y recuentan las palabras**.<br>
-*Estas palabras resultan ser más de 13 millones para cerca de 45.300 películas, rondando un promedio de 289 palabras por película, lo que arrojaba errores de memoria por la necesidad de crear matrices muy grandes (aplicando IT-IDF)*.<br>
+*Estas palabras resultan ser más de 13 millones para cerca de 45.300 películas, rondando un promedio de 289 palabras por película, lo que arrojaba errores de memoria por la necesidad de crear matrices muy grandes (aplicando TF-IDF)*.<br>
 Para lo cual, **la solución propuesta y aplicada fue reducir la cantidad de palabras a 100**, las 100 más comunes en la instancia de cada película (en caso de contener más de 100 originalmente).<br>
 El resultado aplicado el filtro, nos da cerca de 1.1 millones de palabras, **<u>siendo una reducción de un 90%</u>**, la aplicación de la matriz TF-IDF se puede utilizar y el resultado fue convincente para mí como data engineer a cargo del desarrollo.<br>
 * *Las películas analizadas principalmente fueron Titanic, Toy Story, Mortal Kombat y The President*.<br>
